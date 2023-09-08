@@ -1,2 +1,2 @@
 # springcloud-config
-cfg文件
+config 文件

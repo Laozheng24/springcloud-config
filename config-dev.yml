@@ -1,1 +1,2 @@
-Hello Config
+config:
+  info:"master branch ..."
